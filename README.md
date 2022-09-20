@@ -67,7 +67,7 @@
       <td align="center" ><p>20/09/2022</p>
       </td>
       <td>
-        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-W1-3B/TASK_W1_3B.ipynb">Click Here!</a></p>
+        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-3A/Task_3A.ipynb">Click Here!</a></p>
       </td>
    </tr>
 </table>
