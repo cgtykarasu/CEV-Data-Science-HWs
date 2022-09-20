@@ -1,0 +1,1 @@
+### Write a piece of code that will generate numbers for a coupon in Sayisal Loto that should include 8 colons and each column should have 6 random numbers. Please control the colons in terms of having no repetitions.
