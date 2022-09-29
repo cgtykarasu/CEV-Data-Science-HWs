@@ -76,7 +76,7 @@
      </td>
       <td>
         <p>Please provide an analysis (mean and std) for the volumes of hippocampus with respect to the level of AD(Alzheimer's Disease).</p>
-      <td align="center" ><p>20/09/2022</p>
+      <td align="center" ><p>29/09/2022</p>
       </td>
       <td>
         <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-3B/TASK_3B.ipynb">Click Here!</a></p>
