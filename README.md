@@ -1,6 +1,6 @@
 <table>
    <tr>
-        <td align="center" width="15%"><b>Project Number</b></td>
+        <td align="center" width="22%"><b>Project Number</b></td>
         <td align="center" width="50%"><b>Project Description</b></td>
      		<td align="center" width="15%"><b>Completion Date</b></td>
         <td align="center" width="10%"><b>Link</b></td>
@@ -80,6 +80,25 @@
       </td>
       <td>
         <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-3B/TASK_3B.ipynb">Click Here!</a></p>
+      </td>
+   </tr>
+   
+   <tr>
+      <td align="center" >
+        <p>TASK-4A_4B_4C_4D_Contest</p>
+     </td>
+      <td>
+        <p>TASK-4A: Please provide a descriptive satatistics analysis to providea general understanding of the data set</p>
+           <p>Task-4B: Please provide the visual illustrations ofthe dataset that will demonstrade the insightful distrubutions with respect to the target column (CDRGLOB:the level of the Alzheimer Disease-AD)</p>
+<p>TASK-4C: Please provide a correlation analysis</p>
+<p>TASK-4D:Pleaseprovide a several pivot table for insightful illustration both via tables and figures.
+<p>CONTEST: In groups of 2 students, please try to develop a statistically valid predictor of CDRGLOB via using feature engineering. This means you need to work on the numeric values of the features (variables/columns) by performing multiplications and/or division operations. One such instance is BMI in which we divide weight by height square to get a good indicator of health (skinny, normal, obese, very obese etc). Thus, you should provide a mathematical formula and you should provide arguments and statistical analyses for the validation of your formula. Here is an example that is just to illustrate how it can happen:
+data["Tunas Formula"] = (data["NACCBMI"] data["EDUC"]) / (data["HIPPOVOL"] data["HIPPOVOL"] * data["INDEPEND"])
+Evaluation metric for the contest: 1- You should provide the outputs for a correlation analysis between CDRGLOB and your formula's score. 2- You should also provide the group mean values for your formula's scores for each of 4 groups (CDRGLOB). 3- You should provide a visual illustration for the scores (of your formula) with respect to a variable (you should demonstrate the output in a scatter plot in which the cases should be colored with respect to CDRGLOB values).</p>
+      <td align="center" ><p>03/10/2022</p>
+      </td>
+      <td>
+        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-4A_4B_4C_4D_Contest/TASK_4A_4B_4C_4D_Contest.ipynb">Click Here!</a></p>
       </td>
    </tr>
 </table>
