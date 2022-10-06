@@ -1,6 +1,6 @@
 <table>
    <tr>
-        <td align="center" width="22%"><b>Project Number</b></td>
+        <td align="center" width="25%"><b>Project Number</b></td>
         <td align="center" width="50%"><b>Project Description</b></td>
      		<td align="center" width="15%"><b>Completion Date</b></td>
         <td align="center" width="10%"><b>Link</b></td>
