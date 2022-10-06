@@ -101,6 +101,22 @@ Evaluation metric for the contest: 1- You should provide the outputs for a corre
         <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-4A_4B_4C_4D_Contest/TASK_4A_4B_4C_4D_Contest.ipynb">Click Here!</a></p>
       </td>
    </tr>
+
+   <tr>
+      <td align="center" >
+        <p>TASK-4A_4B_4C_4D_Contest</p>
+     </td>
+      <td>
+        <p>TASK-4A: Please provide a descriptive satatistics analysis to providea general understanding of the data set</p>
+           <p>Task-4B: Please provide the visual illustrations ofthe dataset that will demonstrade the insightful distrubutions with respect to the target column (CDRGLOB:the level of the Alzheimer Disease-AD)</p>
+<p>TASK-4C: Please provide a correlation analysis</p>
+<p>TASK-4D:Pleaseprovide a several pivot table for insightful illustration both via tables and figures.
+      <td align="center" ><p>06/10/2022</p>
+      </td>
+      <td>
+        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-4A_4B_4C_4D/TASK_4A_4B_4C_4D.ipynb">Click Here!</a></p>
+      </td>
+   </tr>
 </table>
 
 ------------
