@@ -146,10 +146,10 @@ Evaluation metric for the contest: 1- You should provide the outputs for a corre
         <p>TASK-5B: Please give concrete examples for each of the 4 domains of machine learning including classification, regression, clustering, and dimensionality reduction.</p>
            <p>TASK-5C: Please run the GaussianNB algorithm for 20 different values with respect to varr_smoothing parameter to find the best model. Then please visualize your findings via a lineplot (matplotlib) to illustrate the more appropriate values/ranges.</p>
 <p>TASK-5D: Please use two different algorithms (other than GaussianNB) with their default parameter values and then compare your findings to the ones obtained in Task-5C.</p>
-      <td align="center" ><p>---</p>
+      <td align="center" ><p>14/10/2022</p>
       </td>
       <td>
-        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-4A_4B_4C_4D/TASK_4A_4B_4C_4D.ipynb">Click Here!</a></p>
+        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-5B_5C_5D/TASK_5B_5C_5D.ipynb">Click Here!</a></p>
       </td>
    </tr>
 </table>
