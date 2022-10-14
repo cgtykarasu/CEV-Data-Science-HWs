@@ -104,14 +104,49 @@ Evaluation metric for the contest: 1- You should provide the outputs for a corre
 
    <tr>
       <td align="center" >
-        <p>TASK-4A_4B_4C_4D_Contest</p>
+        <p>TASK-4A_4B_4C_4D</p>
      </td>
       <td>
         <p>TASK-4A: Please provide a descriptive satatistics analysis to providea general understanding of the data set</p>
            <p>Task-4B: Please provide the visual illustrations ofthe dataset that will demonstrade the insightful distrubutions with respect to the target column (CDRGLOB:the level of the Alzheimer Disease-AD)</p>
 <p>TASK-4C: Please provide a correlation analysis</p>
-<p>TASK-4D:Pleaseprovide a several pivot table for insightful illustration both via tables and figures.
+<p>TASK-4D:Pleaseprovide a several pivot table for insightful illustration both via tables and figures.</p>
       <td align="center" ><p>06/10/2022</p>
+      </td>
+      <td>
+        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-4A_4B_4C_4D/TASK_4A_4B_4C_4D.ipynb">Click Here!</a></p>
+      </td>
+   </tr>
+
+   <tr>
+      <td align="center" >
+        <p>TASK-5A</p>
+     </td>
+      <td>
+         <p>1) Class Faker 10000 tane email 10000 tane password</p>
+         <p>2) Class (1) Class -----SQLALCHEMY 1 TABLO name=Login column => email password insert ediceksiniz psycopsg2</p>
+         <p>3) Class existing table içinden 1000 tane email ve şifre çekiceksiniz (1) Class 90000098 üretiyoruz.</p>
+         <p>4) 3te üretilen 10k veriyi gidip exsiting içinden sorgulamaya başlıyoruz. True olanları 1 tablo oluşcak insert TABLO name=finding column => email password insert ediceksiniz psycopsg2</p>
+         <p>5) import time</p>
+         <p>start_time=time.time()</p>
+         <p>end_time=time.time()</p>
+         <p>print(end_time-start_time)</p>
+      <td align="center" ><p>---</p>
+      </td>
+      <td>
+        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-4A_4B_4C_4D/TASK_4A_4B_4C_4D.ipynb">Click Here!</a></p>
+      </td>
+   </tr>
+
+   <tr>
+      <td align="center" >
+        <p>TASK-5B_5C_5D</p>
+     </td>
+      <td>
+        <p>TASK-5B: Please give concrete examples for each of the 4 domains of machine learning including classification, regression, clustering, and dimensionality reduction.</p>
+           <p>TASK-5C: Please run the GaussianNB algorithm for 20 different values with respect to varr_smoothing parameter to find the best model. Then please visualize your findings via a lineplot (matplotlib) to illustrate the more appropriate values/ranges.</p>
+<p>TASK-5D: Please use two different algorithms (other than GaussianNB) with their default parameter values and then compare your findings to the ones obtained in Task-5C.</p>
+      <td align="center" ><p>---</p>
       </td>
       <td>
         <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-4A_4B_4C_4D/TASK_4A_4B_4C_4D.ipynb">Click Here!</a></p>
