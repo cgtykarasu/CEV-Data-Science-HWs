@@ -134,7 +134,7 @@ Evaluation metric for the contest: 1- You should provide the outputs for a corre
       <td align="center" ><p>---</p>
       </td>
       <td>
-        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-4A_4B_4C_4D/TASK_4A_4B_4C_4D.ipynb">Click Here!</a></p>
+        <p>---</p>
       </td>
    </tr>
 
@@ -152,6 +152,27 @@ Evaluation metric for the contest: 1- You should provide the outputs for a corre
         <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-5B_5C_5D/TASK_5B_5C_5D.ipynb">Click Here!</a></p>
       </td>
    </tr>
+   
+   
+   <tr>
+      <td align="center" >
+        <p>TASK-6A_6B_6C_6D_6E</p>
+     </td>
+      <td>
+        <p>TASK-6A: Please use the latest version of the AD dataset to provide the following outputs:
+y : CDRGLOB X : all columns except for the label Train-test split: .80-.20 (please use the stratify parameter) Cross-validation both with k=5 and k=10
+Please compare and discuss the outputs obtained from the cross validation step by k=5 and k=10.</p>
+           <p>TASK-6B: Please perform a grid search run with the use of a ML algorithm (and its parameters) you select as opposed to the Gaussian Naive Bayes algorithm. Then compare the outputs with respect to the accuracy values.</p>
+<p>TASK-6C: Please provide a visualization of the best algorithm with respect to the two of the dimensions in the dataset and please annotate the labels. For instance, x-axis might be RPARCORT and y-axis might be LTEMPCOR.</p>
+         <p>TASK-6D: Please apply one of the dimensionality reduction methods (PCA or isomap) and reduce the features matrix into 2 extracted dimensions. Then provide a visualization with respect to these dimensions.</p>
+         <p>TASK-6E: Please perform one of the clustering techniques (k-means or GMM) on the dataset (on the features matrix) then again provide a visual illustration with respect to the features like age, education.</p>
+      <td align="center" ><p>19/10/2022</p>
+      </td>
+      <td>
+        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-6A_6B_6C_6D_6E/TASK_6A_6B_6C_6D_6E.ipynb">Click Here!</a></p>
+      </td>
+   </tr>
+   
 </table>
 
 ------------
