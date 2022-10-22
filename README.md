@@ -173,6 +173,23 @@ Please compare and discuss the outputs obtained from the cross validation step b
       </td>
    </tr>
    
+   <tr>
+      <td align="center" >
+        <p>TASK-6</p>
+     </td>
+      <td>
+           <p>Json-Dictionary arasındaki fark nedir? Dumps Ne işe yarıyor? Neden encode kullandık? Neden data.encode.utf-8n şeklinde kullanmadık?</p>
+<p>Json dumps nedir json load nedir json loads nedir?</p>
+         <p>Dockera girdikten sonra spesific bir container hangi networkta çalışıyor ve default ip nasıl bulunacak? Bir satırlık kod olarak yazılacak.</p>
+         <p>Neden UTF-8 kullanıyoruz?</p>
+         <p>192.168.0.1 nedir ve 127.00.01 arasındaki fark nedir?</p>
+      <td align="center" ><p>22/10/2022</p>
+      </td>
+      <td>
+        <p><a href="https://github.com/cgtykarasu/CEV-Data-Science-HWs/blob/main/TASK-6/TASK_6.ipynb">Click Here!</a></p>
+      </td>
+   </tr>
+   
 </table>
 
 ------------
